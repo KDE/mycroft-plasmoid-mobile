@@ -14,9 +14,9 @@ msgstr ""
 "X-Crowdin-Project: kdeorg\n"
 "X-Crowdin-Project-ID: 269464\n"
 "X-Crowdin-Language: zh-CN\n"
-"X-Crowdin-File: /kf5-trunk/messages/plasma-mycroft-mobile/plasma_applet_org."
-"kde.plasma.mycroftplasmoidmobile.pot\n"
-"X-Crowdin-File-ID: 12236\n"
+"X-Crowdin-File: /kf5-trunk/messages/mycroft-plasmoid-mobile/"
+"plasma_applet_org.kde.plasma.mycroftplasmoidmobile.pot\n"
+"X-Crowdin-File-ID: 55772\n"
 
 #: contents/ui/AudioFileDelegate.qml:94 contents/ui/VideoFileDelegate.qml:93
 #, kde-format
