@@ -7,7 +7,7 @@
 # Antoni Bella Pérez <antonibella5@yahoo.com>, 2017, 2018, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: plasma-mycroft-mobile\n"
+"Project-Id-Version: mycroft-plasmoid-mobile\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-09-02 01:47+0000\n"
 "PO-Revision-Date: 2023-03-09 14:57+0100\n"
